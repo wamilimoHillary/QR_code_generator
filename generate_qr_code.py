@@ -1,11 +1,11 @@
 import qrcode
 
 # Define the details
-reg_no = "DCMSLMR202922"
-name = "GEOFREY MOSE ONYANCHA"
+reg_no = "BSCLMR..."
+name = "DR WAMILIMO"
 Reg_id = "RG-433889"
-program ="DCMS"
-stage="Y2S2"
+program ="BSC"
+stage="Y3Y2"
 semester = "SEM3/2023-2024"
 
 # Format the details
